@@ -1,3 +1,11 @@
+#footbar:
+ is system helping any owner to know any payments should pay 
+ 
+ #installition:
+ -install PHP 7 & SQLLITE3
+
+#usage:
+
 my task it contains 5 pages:
 
 1-HOME
@@ -25,4 +33,4 @@ file contains
 2-js: java script files
 3-styles: css style
 &html file
-                                         
+////////////////////////////////////
